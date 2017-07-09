@@ -1,3 +1,3 @@
 # Arduino
-## This is some Arduino code.
-## 一些Arduino的代码
+* This is some Arduino code.
+* 一些Arduino的代码
