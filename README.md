@@ -1,6 +1,9 @@
 # Arduino
 * This is some Arduino code.
 * 一些Arduino的代码,实现超声波小车避障,温湿度采集并通过WiFi上传到乐为物联网平台
+
+*.ino是Arduino文件
+
 ### WiFi模块采用NodeMcu
 * NodeMcu使用Lua语言
 * 使用NodeMcu Studio 2015进行编辑解析
